@@ -1,7 +1,7 @@
 # qiskit-notebooks
 Explore and research qiskit by doing!
 
-    Main goal behind creating this repository is to learn about and explore the field of the quantum computing using qiskit in a more pythonic way!
+```Main goal behind creating this repository is to learn about and explore the field of the quantum computing using qiskit in a more pythonic way!```
 
 A big thanks to whole qiskit team for developing the amazing library of qiskit to play with quantum computing and allowing us to even virtually touch the quantum hardware using qiskit i.e: IBMQ!
 
