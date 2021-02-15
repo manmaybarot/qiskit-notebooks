@@ -7,17 +7,19 @@ A big thanks to whole qiskit team for developing the amazing library of qiskit t
 
 
 ## How to use it:
-- Clone the repo
-- Go to repo dir
+### Clone the repo
+$ `git@github.com:manmaybarot/qiskit-notebooks.git`
+
+$ `cd qiskit-notebooks`
 
 ### To create environment setup:
-run:  `make create_env`
+$ `make create_env`
 
-### To open jupyter lab
-run:  `make open_lab`
+### To open jupyter lab (and start conding!)
+$ `make open_lab`
 
 ### To destroy/cleanup environment
-run:  `make env_destroy`
+$ `make env_destroy`
 
 
 #### Work in progress... This repo is currently under development. New contents will be added in a periodic manner.
